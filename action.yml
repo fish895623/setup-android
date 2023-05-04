@@ -9,3 +9,10 @@ runs:
 branding:
   icon: 'list'
   color: 'green'
+
+inputs:
+  bver:
+    description: 'Testing'
+    required: false
+    default: '22'
+    
